@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rafaditya Syahputra =</h1>
 <h3 align="center">Heyhoo! , saya pelajar dari SMKN 13 Bandung yang tertarik dengan dunia programming. Sekarang lagi asik belajar coding, bikin website, dan eksplorasi project open source. Saya percaya belajar bareng komunitas dan berbagi kode adalah cara terbaik berkembang.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=raditt10&label=Profile%20views&color=0e75b6&style=flat" alt="raditt10" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raditt10" alt="raditt10" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/rafaa_ndl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rafaa_ndl" height="30" width="40" /></a>
