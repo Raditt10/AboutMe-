@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rafaditya Syahputra =</h1>
+<h1 align="center">Hi 👋, I'm Rafaditya Syahputra</h1>
 <h3 align="center">Heyhoo! , saya pelajar dari SMKN 13 Bandung yang tertarik dengan dunia programming. Sekarang lagi asik belajar coding, bikin website, dan eksplorasi project open source. Saya percaya belajar bareng komunitas dan berbagi kode adalah cara terbaik berkembang.</h3>
 
 <h3 align="left">Connect with me:</h3>
