@@ -2,7 +2,7 @@
 
 # 🌟 Rafaditya Syahputra
 
-### `< Pelajar SMKN 13 Bandung />` | **Code Enthusiast** | **Open Source Explorer**
+### `< Pelajar Sigma />` | **Code Enthusiast** | **Open Source Explorer**
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Heyhoo!+%F0%9F%91%8B;Suka+Bikin+Website+%F0%9F%92%BB;Eksplorasi+Open+Source+%F0%9F%9A%80;Learning+Never+Stops+%F0%9F%93%9A" alt="Typing SVG" />
 
