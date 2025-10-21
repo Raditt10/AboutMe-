@@ -8,7 +8,7 @@
 
 <img align="right" alt="Anime Coding GIF" width="350" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
-### `< 🎌 Pelajar Sigma Meets Anime Vibes />` 
+### `< 🎌 Pelajar Sigma   />` 
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Yosh!+Hajimemashite!+%F0%9F%91%8B%E2%9C%A8;Suka+Bikin+Website+%26+Watch+Anime+%F0%9F%8E%8C;Open+Source+Explorer+%F0%9F%9A%80;Code+by+Day%2C+Anime+by+Night+%F0%9F%8C%99;Ganbatte+Kudasai!+%F0%9F%92%AA%F0%9F%94%A5" alt="Typing SVG" />
 
